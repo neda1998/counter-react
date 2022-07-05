@@ -1,0 +1,27 @@
+.btn-counter {
+    display: flex;
+    margin-top: 200px;
+    gap: 10px;
+}
+
+.btn {
+    border: none;
+    background-color: green;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #333;
+}
+
+.btn-left {
+    background-color: red;
+}
+
+.para-count {
+    position: absolute;
+    top: 39%;
+    left: 47%;;
+    font-size: 23px;
+    color: #777;
+}
